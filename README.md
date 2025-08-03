@@ -3,8 +3,9 @@
 This is a simple multi-page responsive website built using **Bootstrap 5**. It was developed as part of an internship assignment to learn and apply layout composition, responsive design, and component-based UI design.
 
 ## 🔗 Live Demo
-Deployed on Netlify: [https://yourproject-name.netlify.app](https://yourproject-name.netlify.app)  
-(Note: Replace with your actual Netlify link)
+Deployed on Netlify: 
+https://bootstrap5-intern.netlify.app/
+
 
 ## 📁 Project Structure
 

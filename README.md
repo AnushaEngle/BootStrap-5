@@ -26,8 +26,7 @@ bootstrap5-intern-project/
 - Git & GitHub (version control)
 - Netlify (hosting)
 
-## 📷 Screenshots
-(You can add screenshots here once deployed)
+
 
 ## 🛠 How to Run
 
@@ -38,14 +37,12 @@ bootstrap5-intern-project/
 
 ## 🧾 Task Objectives
 
-- Use Bootstrap components creatively (not copied)
+- Use Bootstrap components creatively
 - Maintain layout consistency and responsiveness
 - Submit clean HTML pages and live working link
 
-## 📬 Submission Format
 
-- GitHub Repository: `https://github.com/yourusername/bootstrap5-intern-project`
-- Live Site: `https://yourproject-name.netlify.app`
+
 
 ---
 
